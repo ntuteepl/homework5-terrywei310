@@ -27,4 +27,4 @@ int main() {
     printf("夾角為：%.3f度\n", angle);
 
     return 0;
-}
+} 
