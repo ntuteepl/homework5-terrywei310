@@ -17,7 +17,7 @@ int main() {
     }
 
     // 以 float 計算 ex
-    printf("%.1f℉\n", F);
+    printf("%.2f℉\n", F);
     
     return 0;
 }
